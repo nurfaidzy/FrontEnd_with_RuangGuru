@@ -1,0 +1,100 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+nav {
+  justify-items: center;
+  padding-top: 3%;
+  background-color: #3A3845;
+  margin: auto;
+  text-align: center;
+  width: 100%;
+  font: 15px Arial, sans-serif;
+}
+nav .judul {
+  letter-spacing: 6px;
+  font-size: large;
+}
+nav ul {
+  list-style: none;
+  position: relative;
+  display: inline-table;
+  width: 90%;
+}
+nav ul li {
+  float: left;
+}
+nav ul li a {
+  display: block;
+  padding: 25px;
+  color: #fff;
+  text-decoration: none;
+}
+nav a {
+  display: block;
+  color: #fff;
+  text-decoration: none;
+}
+nav ul li:hover {
+  background: #DAB88B;
+}
+nav ul li:hover a {
+  color: #3A3845;
+}
+nav button {
+  border: none;
+  display: block;
+  color: #fff;
+  text-decoration: none;
+  background-color: #3A3845;
+  padding: 25px;
+  display: block;
+}
+nav .buttonawal {
+  float: right;
+}
+nav button:hover {
+  background: #DAB88B;
+  color: #3A3845;
+}
+
+.jumbo {
+  background: url("../assets/jumbotron.jpg");
+  padding-top: 20%;
+  padding-bottom: 20%;
+  background-size: cover;
+}
+.jumbo .text {
+  padding-left: 10%;
+  line-height: 40px;
+  font-size: x-large;
+  color: #3A3845;
+}
+.jumbo button {
+  border: none;
+  color: #fff;
+  text-decoration: none;
+  background-color: #3A3845;
+  padding: 25px;
+}
+.jumbo button:hover {
+  background: #DAB88B;
+  color: #3A3845;
+}
+
+.produc {
+  font: 15px Arial, sans-serif;
+}
+
+.card img {
+  width: 50%;
+  height: 50%;
+}
+
+/*# sourceMappingURL=style.css.map */
