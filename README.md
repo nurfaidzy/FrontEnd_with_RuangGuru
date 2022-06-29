@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nurfaidzy Riyamizard Saragih</h1>
-<h3 align="center">I learn Frond End with Ruang Gur</h3>
+<h3 align="center">I learn Frond End with Ruang Guru</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nurfaidzy&label=Profile%20views&color=0e75b6&style=flat" alt="nurfaidzy" /> </p>
 
